@@ -1,0 +1,120 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+
+
+THIS IS THE BETTER ONE HEHEHEHEHEHEHEHEHEHEHE
+ */
+
+.icon-block {
+    padding: 0 15px;
+}
+
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.brand-logo {
+    margin-left: 40px;
+}
+
+
+
+.slider .btn {
+    margin-top: 20px;
+    padding: 0 50px;
+    border-radius: 1%;
+
+}
+
+.card-image img,
+.card-content p {
+    height: 150px;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+.section-contact {
+    margin-top: 20px
+}
+
+
+/*
+SOURCE OF BUTTON GRADIENT
+https://gradientbuttons.colorion.co/
+*/
+
+#slidebutton {
+    width: 15%;
+
+}
+
+#slideSubhead {
+    margin-bottom: 50px;
+}
+
+.btn-grad {
+    background-image: linear-gradient(to right, #3b4248 0%, #4b4a44 51%, #3b4248 100%);
+    margin: auto;
+    width: 30%;
+    padding: 15px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+}
+
+.btn-grad:hover {
+    background-position: center right;
+    /* change the direction of the change here */
+    text-decoration: none;
+    box-shadow: 0 0 40px #f4dfc3;
+    
+
+}
+
+
+
+#aboutme {
+    margin-bottom: 20px;
+}
+
+#meInfo {
+   width: 80%;
+margin: auto;
+margin-left: 18%;}
+
+.material-icons{
+    display: inline-flex;
+    vertical-align: top;
+}
+
+
+.light {
+    width: 80%;
+    margin: auto;
+
+}
+
+.responsive-img {
+
+    width: 30%;
+    float: left;
+    padding: 0 20px 0 0;
+    display: inline-block;
+}
+
+.details {
+    display: inline;
+  
+}
